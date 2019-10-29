@@ -52,7 +52,7 @@ end
   
  Hitmebabyonemoretime = Song.new("Hit me Baby One More Time", "Brittany Spears", "Pop")
   
-  Hitmebabyonemoreime.name 
+  Hitmebabyonemoretime.name 
   
   Hitmebabyonemoretime.artist
    
