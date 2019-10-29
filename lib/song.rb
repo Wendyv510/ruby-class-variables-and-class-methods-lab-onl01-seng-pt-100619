@@ -58,11 +58,11 @@ Hitmebabyonemoretime = Song.new("Hit me Baby One More Time", "Brittany Spears", 
    
   Hit Me Baby One More Time.genre 
   
-  Song.@@count
+  Song.class_variable_get(:@@count)
   
-  Song.@@artists
+  Song.class_variable_get(:@@artists)
   
-  Song.@@genre
+  Song.class_variable_get(:@@genre)
   
   Song.count 
   
