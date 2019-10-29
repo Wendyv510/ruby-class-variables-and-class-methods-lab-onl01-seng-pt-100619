@@ -48,7 +48,7 @@ end
   
  Luficer = Song.new("Lucifer", "Jay-Z", "Rap")
   
- 99Problems =  Song.new("99 Problems", "Jay-Z", "Rap")
+ ninetynineProblems =  Song.new("99 Problems", "Jay-Z", "Rap")
   
 Hitmebabyonemoretime = Song.new("Hit me Baby One More Time", "Brittany Spears", "Pop")
   
