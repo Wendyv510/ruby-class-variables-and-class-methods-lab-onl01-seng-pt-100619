@@ -52,11 +52,11 @@ end
   
  Hitmebabyonemoretime = Song.new("Hit me Baby One More Time", "Brittany Spears", "Pop")
   
-  HitMeBabyOneMoreTime.name 
+  Hitmebabyonemoreime.name 
   
-  HitMeBabyOneMoreTime.artist
+  Hitmebabyonemoretime.artist
    
-  HitMeBabyOneMoreTime.genre 
+  Hitmebabyonemoretime.genre 
   
   Song.class_variable_get(:@@count)
   
