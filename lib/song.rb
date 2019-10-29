@@ -22,16 +22,16 @@ class Song
     @@artists << @artist 
   end 
   
-  def count = (count)
-     @@count = count 
+  def count
+     @@count 
   end 
   
-  def genre = (genre)
-     @@genre.uniq = genre.uniq
+  def genre
+     @@genre.uniq 
   end 
   
-  def artists = (artists)
-     @@artists.uniq = artists.uniq
+  def artists 
+     @@artists.uniq
   end 
   
   def genre_count 
