@@ -21,15 +21,15 @@ class Song
   end 
   
   def count 
-    puts @@count 
+     @@count 
   end 
   
   def genre 
-    puts @@genre.uniq 
+     @@genre.uniq 
   end 
   
   def artists 
-    puts @@artists.uniq 
+     @@artists.uniq 
   end 
   
   def genre_count 
